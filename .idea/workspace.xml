@@ -6,7 +6,307 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0073f1fd-bfce-4fdf-a3f4-3c0c45448364" name="Default" comment="" />
+    <list default="true" id="0073f1fd-bfce-4fdf-a3f4-3c0c45448364" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Friend" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/UrlImages/PS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/UrlImages/th_lights3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/ComsumerListener/LoginStateComsumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/ComsumerListener/VailEmailComsumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/Produce/EmailProduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/Produce/LoginAopProduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/WebSocket/HandshakeInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/WebSocket/WebsocketEndPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/WebSocket/oth/SystemWebSocketHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/WebSocket/oth/WebSocketConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/aop/AspectAuto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/aop/LoginAspect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/CodeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/DateController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/FriendMessageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/IndexController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/InitializeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/LoginOutController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/MapController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/MessagePageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/RegistController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/ToJumpController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/controller/VailEmailController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dao/CreateUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dao/RediesForLoginDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dao/RedisForVailEmailDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dao/RedisSessionDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dao/SavaUserDetailDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dao/SaveKeepLikeDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dto/FriendMessageResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dto/MySession.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/dto/VailEmailPackage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/entity/FriendMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/entity/KeepLike.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/entity/UserDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/entity/UserLoginState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/interceptor/LoginCheckInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/repository/FriendMessageRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/repository/KeepLikeRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/repository/UserDetailRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/repository/UserRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/service/GetLikeService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/service/LoginCheckService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/service/PageService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/service/RegistService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/service/UserDetailAndLikeService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/service/VailEmailService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/test/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/util/CreateFileNameUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/util/CreateTokenUitl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/util/GetDateAndTimeUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/util/Get_IP_Host.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/util/JAVAMAIL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/com/zsl/util/UsernameCheckUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/db.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/spring/spring-Rabbitmq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/spring/spring-aop.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/spring/spring-dao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/spring/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/classes/spring/spring-service.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/images/th_bw2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/UserAgentUtils-1.20.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/amqp-client-3.6.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/aspectjrt-1.8.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/c3p0-0.9.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/commons-codec-1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/commons-collections-3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/commons-io-2.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/commons-pool2-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/filters-2.0.235.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/hibernate-core-4.3.6.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/hibernate-entitymanager-4.3.6.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/http-client-1.0.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/httpclient-4.3.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/httpcore-4.3.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jackson-annotations-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jackson-core-2.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jackson-databind-2.5.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jandex-1.1.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/javassist-3.18.1-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jboss-logging-3.1.3.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jcl-over-slf4j-1.7.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jedis-2.7.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/kaptcha-0.0.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/mail-1.4.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/protostuff-api-1.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/protostuff-collectionschema-1.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/protostuff-core-1.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/protostuff-runtime-1.0.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/slf4j-api-1.7.10.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-amqp-1.6.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-aop-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-aspects-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-beans-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-context-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-core-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-data-commons-1.10.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-data-jpa-1.8.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-expression-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-jdbc-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-messaging-4.2.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-orm-4.0.9.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-rabbit-1.6.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-retry-1.1.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-test-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-tx-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-web-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-webmvc-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/spring-websocket-4.3.5.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/standard-1.1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/css/demo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/css/gsdk-bootstrap-wizard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/default-avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/new_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/thumb_list_boat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/thumb_list_place.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/thumb_register.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/tim_80x80.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/wizard-boat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/wizard-city.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/img/wizard.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/js/gsdk-bootstrap-wizard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/js/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/js/jquery-2.2.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/js/jquery.bootstrap.wizard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_footers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_inputs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_misc.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_navs-pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_responsive.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_tooltips.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/_wizard-card.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/assets/scss/gsdk-bootstrap-wizard/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/icomoon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/lanrenzhijia.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/layout.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/themify-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/css/zoom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/icomoon/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/icomoon/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/icomoon/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/icomoon/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/themify-icons/themify.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/themify-icons/themify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/themify-icons/themify.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/fonts/themify-icons/themify.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_bg_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_bg_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/img_bg_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/iphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/macbook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/person_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/person_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/images/person_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.countTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.imgbox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.stellar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/magnific-popup-options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/resources/js/zoom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/Friend.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/Map.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/date/DateIndex.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/first/EmailResult.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/first/EmailSend.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/first/email.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/first/first.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/index.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/main.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/maindetil.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/my/myinfo.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/views/my/myinfoChange.jsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/Friend/userimage/default-avatar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/ComsumerListener/LoginStateComsumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/ComsumerListener/VailEmailComsumer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/Produce/EmailProduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/Produce/LoginAopProduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/WebSocket/HandshakeInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/WebSocket/WebsocketEndPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/WebSocket/oth/SystemWebSocketHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/WebSocket/oth/WebSocketConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/aop/AspectAuto.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/aop/LoginAspect.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/CodeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/DateController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/FriendMessageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/IndexController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/InitializeController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/LoginController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/LoginOutController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/MapController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/MessagePageController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/RegistController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/ToJumpController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/controller/VailEmailController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dao/CreateUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dao/RediesForLoginDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dao/RedisForVailEmailDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dao/RedisSessionDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dao/SavaUserDetailDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dao/SaveKeepLikeDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dto/FriendMessageResult.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dto/MySession.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/dto/VailEmailPackage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/entity/FriendMessage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/entity/KeepLike.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/entity/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/entity/UserDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/entity/UserLoginState.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/interceptor/LoginCheckInterceptor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/repository/FriendMessageRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/repository/KeepLikeRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/repository/UserDetailRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/repository/UserRepository.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/service/GetLikeService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/service/LoginCheckService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/service/PageService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/service/RegistService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/service/UserDetailAndLikeService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/service/VailEmailService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/test/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/util/CreateFileNameUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/util/CreateTokenUitl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/util/GetDateAndTimeUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/util/Get_IP_Host.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/util/JAVAMAIL.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/zsl/util/UsernameCheckUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/db.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-Rabbitmq.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-aop.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-mvc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/spring/spring-service.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +324,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zsl/service/VailEmailService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="239">
-              <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+              <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -48,6 +348,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -105,6 +408,22 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Friend Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Friend Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="823" />
     <option name="y" value="57" />
@@ -127,9 +446,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,139 +454,12 @@
               <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
               <item name="Friend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="ComsumerListener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="WebSocket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zsl" type="462c0819:PsiDirectoryNode" />
-              <item name="WebSocket" type="462c0819:PsiDirectoryNode" />
-              <item name="oth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Friend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Friend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -482,11 +672,12 @@
       <workItem from="1507537552476" duration="28000" />
       <workItem from="1508316510853" duration="366000" />
       <workItem from="1508935103815" duration="1209000" />
+      <workItem from="1509002744755" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25767000" />
+    <option name="totallyTimeSpent" value="25803000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -501,36 +692,36 @@
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61941963" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.87946427" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61941963" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.87946427" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2998927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30418456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -977,7 +1168,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zsl/service/VailEmailService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
-          <caret line="59" column="31" lean-forward="true" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <caret line="59" column="31" lean-forward="false" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
           <folding />
         </state>
       </provider>
