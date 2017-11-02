@@ -54,7 +54,7 @@ public class JAVAMAIL {
             //String ip = Get_IP_Host.INTERNET_IP;
 
           // if(ip!=null) {
-                message.setText("点击访问该网址完成邮箱验证：http://119.29.209.127:8080/Friend/ToVailEmail/" + emailPackage.getUsername() + "/" + emailPackage.getVailToken());
+                message.setText("点击访问该网址完成邮箱验证：http://119.29.209.127:86/Friend/ToVailEmail/" + emailPackage.getUsername() + "/" + emailPackage.getVailToken());
           //  }
 
             //发送邮件

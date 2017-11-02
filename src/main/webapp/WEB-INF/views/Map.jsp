@@ -37,7 +37,8 @@
                    
             </div>
             <script type="text/javascript">
-                var websocket = new WebSocket('ws://localhost:8080/webSocketServer');
+                //由于自己暂时配置不了websocket的nginx负载均衡所以使用写死的方法执行
+                var websocket = new WebSocket('ws://119.29.209.127:8081/Friend/webSocketServer');
                 websocket.onopen = function (evnt) {
                     console.log('ws clint:open websocket');
                     //发送消息

@@ -94,7 +94,7 @@
                                 <!--<span class="intro-text-small">欢迎访问</span>-->
                                 <h1>莫麟平台</h1><br>
                                 <h3 style="color: white">在这里你能获得更多</h3>
-                                <h3 class="text-danger">当前是二22222号服务器</h3>
+                                <h3 class="text-danger">当前是二号服务器</h3>
                                 <h3 class="text-info">${Rerroe}</h3>
                                 <h3 class="text-danger">${error}</h3>
                                 <h3 class="text-success">${success}</h3>
@@ -135,7 +135,7 @@
                                                     </div>
                                                     <div class="row form-group">
                                                         <div class="col-md-12">
-                                                            <img src="/getCodeImageRe" id="imgecodeRe">
+                                                            <img src="getCodeImageRe" id="imgecodeRe">
                                                             <a class="btn btn-warning" href="javascript:refreshCaptchaRe();">刷新</a>
                                                         </div>
                                                     </div><br>
@@ -170,7 +170,7 @@
                                                     </div>
                                                     <div class="row form-group">
                                                         <div class="col-md-12">
-                                                            <img src="/getCodeImage" id="imgecode">
+                                                            <img src="getCodeImage" id="imgecode">
                                                             <a class="btn btn-warning text-success" href="javascript:refreshCaptcha();">刷新</a>
                                                         </div>
                                                     </div>
@@ -292,13 +292,13 @@
     //添加随机数，防止浏览器缓存导致图片加载不出
     function refreshCaptcha(){
         var ran = Math.floor(Math.random() * 100)
-        document.getElementById("imgecode").src="/getCodeImage?d="+ran;
+        document.getElementById("imgecode").src="getCodeImage?d="+ran;
     }
 
     //添加随机数，防止浏览器缓存导致图片加载不出
     function refreshCaptchaRe(){
         var ran = Math.floor(Math.random() * 100)
-        document.getElementById("imgecodeRe").src="/getCodeImageRe?d="+ran;
+        document.getElementById("imgecodeRe").src="getCodeImageRe?d="+ran;
     }
 
 

@@ -64,9 +64,6 @@ public class VailEmailService {
                 return true;
             }
         }
-
-
-
         return false;
     }
 

@@ -86,7 +86,8 @@
                         <prop key="kaptcha.textproducer.font.size">30</prop>
                         <prop key="kaptcha.session.key">code</prop>
                         <prop key="kaptcha.textproducer.char.length">4</prop>
-                        <prop key="kaptcha.textproducer.char.string">0123456789</prop>
+
+                        <prop key="kaptcha.textproducer.char.string">1234567890</prop>
                         <prop key="kaptcha.textproducer.font.names">宋体,楷体,微软雅黑</prop>
                     </props>
                 </constructor-arg>
